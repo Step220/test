@@ -57,3 +57,6 @@ def main():
     write_task_to_file()
 if __name__ == "__main__":
     main()
+class Baran:
+    def __init__(self):
+        self.baran = Baran()
